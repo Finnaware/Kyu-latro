@@ -267,7 +267,7 @@ return {
                     name = "Mr. Phox",
                 },
                 j_mystic_summit = {
-                    name = "Mystic summit",
+                    name = "Mystic Summit",
                 },
                 j_obelisk = {
                     name = "Obelisk",
