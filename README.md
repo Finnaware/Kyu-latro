@@ -1,4 +1,4 @@
-Retextures parts of the game be to be pokémon themed!
+Retextures parts of the game be to be Fennekin line themed!
 
 Requires [Malverk](https://github.com/Eremel/Malverk)
 
