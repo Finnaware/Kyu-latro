@@ -1,0 +1,13 @@
+{
+    "name": "Kyu-latro!",
+    "id": "KYU",
+    "version": "1.0.0",
+    "website_url": "Github.com",
+    "description": "A texture pack that retextures the game to be Feenekin line related",
+    "prefix": "KYU",
+    "author": ["Finnaware"],
+    "main_file": "main.lua",
+    "priority": -248,
+    "badge_colour": "b30245",
+    "dependencies": "malverk"
+}
