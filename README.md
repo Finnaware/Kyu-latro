@@ -1,4 +1,4 @@
-Retextures parts of the game be to be Fennekin line themed!
+Retextures parts of the game be to be Fennekin line themed! (Warning: May cover eternal stickers, so check the card just to be sure, oops!)
 
 Requires [Malverk](https://github.com/Eremel/Malverk)
 
