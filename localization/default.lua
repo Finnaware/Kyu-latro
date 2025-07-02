@@ -1,6 +1,21 @@
 return {
     descriptions = {
         alt_texture = {
+            alt_tex_KYU_tags = {
+                name = "Tags"
+            },
+            alt_tex_KYU_boosters = {
+                p_buffoon_normal = {
+                    name = "Phox Pack",
+                },
+                p_buffoon_jumbo = {
+                    name = "Jumbo Phox Pack",
+                },
+                p_buffoon_mega = {
+                    name = "Mega Phox Pack",
+                },
+                name = "Boosters"
+            },
             alt_tex_KYU_jokers = {
                 j_8_ball = {
                     name = "8 ball",

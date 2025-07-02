@@ -39,13 +39,30 @@ AltTexture({
             "j_sly", "j_wily", "j_clever", "j_devious", "j_crafty", "j_lucky_cat", "j_baseball", "j_bull", "j_diet_cola", "j_trading",
             "j_flash", "j_popcorn", "j_ramen", "j_selzer", "j_trousers", "j_campfire", "j_smiley", "j_ancient", "j_walkie_talkie", "j_castle",
       },
-}
-)
+})
+
+AltTexture({
+  key = "boosters",
+  set = "Booster", 
+  path = 'boosters.png',
+  localization = true,
+  keys = {'p_buffoon_normal_1', 'p_buffoon_normal_2', 'p_buffoon_jumbo_1', 'p_buffoon_mega_1'}
+})
+
+AltTexture({
+  key = "tags",
+  set = "Tag", 
+  path = 'tags.png',
+  localization = true,
+  keys = {'tag_uncommon', 'tag_rare', 'tag_buffoon'}
+})
 
 TexturePack {
     key = "cards",
     textures = {
         "KYU_jokers",
+        "KYU_boosters",
+        "KYU_tags"
     },
 }
 
