@@ -12,3 +12,4 @@ Then extract the folder, and move them to your Balatro mods folder, to this to b
 
 ### Problems
 - Sticker postion on jokers like photograph and half-joker looks off (I had to make them more visible so the soul dosen't cover the sticker)
+- Soul over all other texture packs in the Malverk menu is a bug on Malverks part, can't fix
