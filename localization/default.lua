@@ -1,6 +1,9 @@
 return {
     descriptions = {
         alt_texture = {
+            alt_tex_KYU_stickers = {
+                name = "Stickers"
+            },
             alt_tex_KYU_tags = {
                 name = "Tags"
             },
